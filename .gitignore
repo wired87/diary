@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+scan_history/pathways.duckdb
+scan_history/routes_meta.json
+scan_history/scan_history.json
