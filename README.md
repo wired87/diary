@@ -1,5 +1,6 @@
 # diary
 
+the plan is describedd here: https://canva.link/h9lbzx13jvzb7hf
 A local **process-monitoring pipeline** that continuously scans all running OS processes, builds semantic embeddings, tracks them across time via a CONTROLLER/PATHWAYS model, persists everything to DuckDB, and exposes the results as a live **FastMCP** tool server.
 
 ---
